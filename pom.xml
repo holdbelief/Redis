@@ -5,6 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>网上例子</module>
+  	<module>exampleonnet</module>
   </modules>
 </project>

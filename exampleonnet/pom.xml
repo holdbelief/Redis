@@ -9,7 +9,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>redis_java</module>
-  	<module>test</module>
   	<module>spring_redis</module>
   </modules>
 </project>
